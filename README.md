@@ -1,2 +1,2 @@
-# PONG-j-t-k
+# PONG jatek
 Alapok elkészítése
